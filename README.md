@@ -34,7 +34,7 @@ Once the repository is cloned, navigate to the project directory using the `cd` 
 
 Open the notebook using a Jupyter Notebook server by running:
 
-`jupyter-notebook Lab6_week8.ipynb`
+`jupyter-lab Lab6_week8.ipynb`
 
 This will open a new tab in your web browser where you can navigate to the notebook file and interact with the code.
 
